@@ -1,4 +1,11 @@
 /*
+NODE:
+
+node -v
+npm init
+npm install node-sass --save-dev
+npm install jquery
+
 Hot keys VS CODE
 
 Format Shift + Alt + F
@@ -9,7 +16,7 @@ GIT:
 
 git status
 git add .
-git commit -m "masaster: 8# Creating Cool CSS Animations."
+git commit -m "master: 8# Creating Cool CSS Animations."
 git remote add origin https://github.com/
 git remote -v
 git fetch origin
