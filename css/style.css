@@ -8,7 +8,9 @@ npm install node-sass --save-dev
 npm install jquery --save
 npm uninstall jquery --save
 npm run build
+npm install live-server -g
 
+live-server
 
 Hot keys VS CODE
 
