@@ -25,12 +25,16 @@ GIT: https://andrii-orel.github.io/fe/
 
 git status
 git add .
-git commit -m "master: 8# Creating Cool CSS Animations."
+git commit -m "master: #8. Creating Cool CSS Animations."
 git remote add origin https://github.com/
 git remote -v
 git fetch origin
 git push origin master
 git remote show origin
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+git config --local user.name "John Doe"
+git config --local user.email johndoe@example.com
 
 COLORS:
 
