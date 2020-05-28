@@ -36,6 +36,9 @@ git config --global user.email johndoe@example.com
 git config --local user.name "John Doe"
 git config --local user.email johndoe@example.com
 
+Free images:
+https://unsplash.com/
+
 COLORS:
 
 Light green: #7ed56f
